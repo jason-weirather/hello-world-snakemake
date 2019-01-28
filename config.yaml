@@ -1,0 +1,8 @@
+#NOTE: you won't typically have to change the following two lines!
+metasheet: 'metasheet.csv'
+
+samples:
+  - data/run/sample-A-tumor_1.fq.gz
+  - data/run/sample-A-tumor_2.fq.gz
+  - data/run/sample-A-normal_1.fq.gz
+  - data/run/sample-A-normal_2.fq.gz
